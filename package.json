@@ -17,7 +17,10 @@
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+<<<<<<< HEAD
     "jsonwebtoken": "^8.1.0",
+=======
+>>>>>>> 33a28f822a1fdd8c4f56244471ee61a6dcae2a89
     "lodash": "^4.15.0",
     "mongodb": "^2.2.5",
     "mongoose": "^4.5.9",
